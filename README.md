@@ -57,3 +57,4 @@
     <img src="https://img.shields.io/badge/Discord-ff2fb0?style=for-the-badge&logo=discord&logoColor=0a0410" />
   </a>
 </p>
+![Panel](./panel.gif)
