@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Evelin 👋</h1>
-<h3 align="center">Computer Systems Engineering Student</h3>
+<p align="center">
+  <img src="banner.png" width="800" alt="Evelin banner" />
+</p>
 
 <p align="center">
   <img src="panel.gif" width="700" alt="profile panel" />
@@ -48,6 +49,10 @@
   <a href="https://instagram.com/evelin_esh">
     <img src="https://img.shields.io/badge/Instagram-ff2fb0?style=for-the-badge&logo=instagram&logoColor=0a0410" />
   </a>
+  <a href="https://discord.gg/evvi_ju">
+    <img src="https://img.shields.io/badge/Discord-ff2fb0?style=for-the-badge&logo=discord&logoColor=0a0410" />
+  </a>
+</p>
   <a href="https://discord.gg/evvi_ju">
     <img src="https://img.shields.io/badge/Discord-ff2fb0?style=for-the-badge&logo=discord&logoColor=0a0410" />
   </a>
