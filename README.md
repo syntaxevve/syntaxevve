@@ -2,7 +2,7 @@
 <h3 align="center">Computer Systems Engineering Student</h3>
 
 <p align="center">
-  <img src="panel.svg" width="700" alt="panel de perfil" />
+  <img src="panel.gif" width="700" alt="profile panel" />
 </p>
 
 ---
